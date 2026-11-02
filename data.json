@@ -6,17 +6,17 @@
   "products": [
     {
       "id": 1,
-      "name": "ลาเต้เย็น",
+      "name": "Tramadol",
       "price": 55,
-      "emoji": "🥤",
+      "emoji": "💊",
       "available": true,
       "tags": ["กาแฟ", "เย็น"]
     },
     {
       "id": 2,
-      "name": "ชาไทย",
+      "name": "Cannabis indica",
       "price": 45,
-      "emoji": "🧋",
+      "emoji": "🥦",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
