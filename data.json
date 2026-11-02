@@ -1,8 +1,8 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
+  "shopName": "ร้าน รัก-วัยรุ่น-ยา",
   "owner": "ชื่อนักศึกษา",
-  "studentId": "6XXXXXXXXX",
-  "ownerPhone": "081-234-5678",
+  "studentId": "1680702188",
+  "ownerPhone": "081-161-0203",
   "products": [
     {
       "id": 1,
@@ -27,6 +27,14 @@
       "emoji": "🥐",
       "available": false,
       "tags": ["เบเกอรี่"]
+    },
+    {
+      "id": 4,
+      "name": "โปนเมทาซีน",
+      "price": 60,
+      "emoji": "🧴",
+      "available": false,
+      "tags": ["ชา", "เย็น", "ขายดี"]
     }
   ]
 }
