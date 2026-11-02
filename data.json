@@ -33,7 +33,7 @@
       "name": "โปนเมทาซีน",
       "price": 60,
       "emoji": "🧴",
-      "available": false,
+      "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     }
   ]
